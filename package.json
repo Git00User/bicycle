@@ -1,6 +1,6 @@
 {
-    "data":"https://www.baidu.com",
-    "statusCode":"300",
+    "data":"",
+    "statusCode":"400",
     "message":"success",
     "describe":"package.json"
 }
